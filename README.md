@@ -17,7 +17,7 @@ Ogni studente deve proporre uno scenario unico, senza duplicati tra i vari stude
 ## Requisiti della Struttura  
 
 ### Progettazione  
-- Specificare gli elementi da gestire tramite la coda e la pila (es. nomi, interi, float).  
+- Specificare gli elementi da gestire tramite la coda e la pila (es. stringhe, interi, float).  
 - Creare una rappresentazione grafica della coda e della pila scelta. Puó essere realizzata anche su carta.  
 - Ogni struttura deve contenere **almeno 5 elementi** nel momento iniziale della simulazione.
   
