@@ -24,7 +24,7 @@ Ogni studente deve proporre uno scenario unico, senza duplicati tra i vari stude
 ---
 
 ## Inserimento nel Codice  
-1. Implementare le classi `Coda` e `Pila` con le operazioni richieste.  
+1. Implementare un main e creare un oggetto di tipo `Coda` e uno di tipo `Pila`.  
 2. Scrivere un programma nel `main` per simulare lo scenario scelto, inserendo elementi nelle strutture e mostrando il risultato delle operazioni principali.  
 
 ---
