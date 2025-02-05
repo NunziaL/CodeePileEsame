@@ -34,9 +34,9 @@ Ogni studente deve proporre uno scenario unico, senza duplicati tra i vari stude
 
 ---
 
-## Ricerca e Manipolazione  
-### Ricerca  
-- Verificare se un elemento specifico è presente nella coda o nella pila.  
+## Conteggio e Manipolazione  
+### Conteggio  
+- Conteggio degli elementi: Contare quanti elementi sono presenti nella coda e nella pila e stampare i risultati.
 
 ### Manipolazione  
 - Rimuovere un elemento dalla coda e visualizzare il risultato.  
