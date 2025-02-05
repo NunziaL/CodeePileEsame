@@ -10,8 +10,7 @@ Gli scenari possono riguardare contesti diversi, tra cui:
 - Sistema di prenotazione (es. ospedali, aeroporti, ristoranti)  
 - Simulazione di gestione file in una stampante  
 - Controllo di operazioni matematiche (parsing di espressioni)  
-
-> Ogni studente deve proporre uno scenario unico, senza duplicati tra i vari studenti. Gli scenari identici saranno BOCCIATI.  
+Ogni studente deve proporre uno scenario unico, senza duplicati tra i vari studenti. Gli scenari identici saranno BOCCIATI.  
 
 ---
 
