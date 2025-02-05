@@ -15,7 +15,8 @@ private:
     int countElements;
 
 public:
-    Coda();                             // Costruttore
+    // Costruttore
+    Coda(): front(nullptr), rear(nullptr), countElements(0) {}
 
     // Distruttore: libera la memoria occupata dalla coda
     ~Coda(){
@@ -58,6 +59,15 @@ public:
         return value;
     }
 
+    //Legge il primo elemento in coda senza rimuoverlo
+    T peek() const {
+        if (isEmpty()) {
+            std::cout << "Coda vuota!" << std::endl;
+            return T();  // Restituisce il valore di default del tipo T
+        }
+        return front->data;  // Restituisce il dato del primo nodo (in cima alla coda)
+    }
+
     // Visualizza la coda
     void display() {
         Node* temp = front;
@@ -72,9 +82,5 @@ public:
     // Conta il numero di elementi nella coda
     int count() const{
         return countElements;
-    };                  
+    }                
 };
-
-// Costruttore: inizializza la coda come vuota
-template <typename T>
-Coda<T>::Coda() : front(nullptr), rear(nullptr), countElements(0) {}
