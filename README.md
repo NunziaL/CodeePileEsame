@@ -37,7 +37,8 @@ Ogni studente deve proporre uno scenario unico, senza duplicati tra i vari stude
 ## Conteggio e Manipolazione  
 ### Conteggio  
 - Conteggio degli elementi: Contare quanti elementi sono presenti nella coda e nella pila e stampare i risultati.
-
+- Confronto: Confrontare il numero di elementi nelle due strutture per verificare se sono uguali o per determinare quale struttura contiene più elementi.
+  
 ### Manipolazione  
 - Rimuovere un elemento dalla coda e visualizzare il risultato.  
 - Spostare un elemento dalla coda alla pila e viceversa.  
@@ -46,8 +47,8 @@ Ogni studente deve proporre uno scenario unico, senza duplicati tra i vari stude
 
 ## Modifica della Struttura  
 ### Aggiunta di nuovi elementi  
-- Inserire nuovi elementi in coda eo in pila a partire da input utente.  
+- Inserire nuovi elementi in coda e in pila a partire da input utente.  
 
 ### Rimozione selettiva  
-- Rimuovere tutti gli elementi presenti in pila o in coda.  
 - Rimuovere un elemento dalla pila e dalla coda.
+- Rimuovere tutti gli elementi presenti in pila o in coda.  
