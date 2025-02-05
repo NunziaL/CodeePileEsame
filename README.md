@@ -40,8 +40,8 @@ Ogni studente deve proporre uno scenario unico, senza duplicati tra i vari stude
 - Confronto: Confrontare il numero di elementi nelle due strutture per verificare se sono uguali o per determinare quale struttura contiene più elementi.
   
 ### Manipolazione  
-- Rimuovere un elemento dalla coda e visualizzare il risultato.  
-- Spostare un elemento dalla coda alla pila e viceversa.  
+- Scambio: eliminare l'elemento in cima della coda e inserirlo nella pila.
+- Invertire il contenuto della Pila: invertire l’ordine degli elementi presenti nella pila e nella coda.
 
 ---
 
